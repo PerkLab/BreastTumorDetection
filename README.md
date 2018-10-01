@@ -6,9 +6,25 @@
 ## Data 
 - Collected from the 2016 non-palpable lumpectomy study 
 - 40 cases 
+- Good example case: 37
 - bmod ultrasound images of tumor in a sequence
+- Linear ultrasound probe
+- Expert, Surgoen or Radiologist contoured breast tumors 
 - 3D contour of tumor region
 - intersection of tumor region contour and ultrasound images from electromagnetic tracking data
+### To View Data
+- Download 3D Slicer
+- Install IGT extension 
+- Install LumpNavRelay module (https://github.com/PerkLab/LumpNavReplay)
+#### To Save Data 
+ - Load data using the lumpNav Replay module
+ -	Hide all models from slice intersection
+ -	Use Screen Capture to capture each individual ultrasound image 
+    -	Set Animation mode: sequence 
+    -	Set Number of Images
+    - Set Master View: red
+
+
 ## Liturature Review 
 #### 1. A Deep Learning Approach for Real Time Prostate Segmentation in Freehand Ultrasound Guided Biopsy
 ##### Objective
