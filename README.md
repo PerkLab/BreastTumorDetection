@@ -15,6 +15,7 @@
 ### To View Data
 - Download 3D Slicer
 - Install IGT extension 
+- Install sequence module
 - Install LumpNavRelay module (https://github.com/PerkLab/LumpNavReplay)
 #### To Save Data 
  - Load data using the lumpNav Replay module
