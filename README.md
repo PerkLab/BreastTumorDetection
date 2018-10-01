@@ -25,7 +25,7 @@
     - Set Master View: red
 - Use matlab functions to crop, resize and label data
 ### Example Data
-**Ultrasound Image with Tumor contour:* 
+**Ultrasound Image with Tumor contour (this image is not cropped):** ![alt text](https://github.com/PerkLab/BreastTumorDetection/blob/master/USwithTumorContour.png)
 
 
 ## Literature Review 
