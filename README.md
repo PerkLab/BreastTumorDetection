@@ -26,8 +26,12 @@
 - Use matlab functions to crop, resize and label data
 ### Example Data
 **Ultrasound Image with Tumor contour (this image is not cropped):** ![alt text](https://github.com/PerkLab/BreastTumorDetection/blob/master/USwithTumorContour.png)
-**Ultrasound Image of Tumor cropped:** ![alt text](https://github.com/PerkLab/BreastTumorDetection/blob/master/USImage.jpeg)
-**Label of Tumor Ultrasound Image:** ![alt text](https://github.com/PerkLab/BreastTumorDetection/blob/master/LabelofTumor.jpeg)
+
+**Ultrasound Image of Tumor cropped:** 
+![alt text](https://github.com/PerkLab/BreastTumorDetection/blob/master/USImage.jpeg)
+
+**Label of Tumor Ultrasound Image:**
+![alt text](https://github.com/PerkLab/BreastTumorDetection/blob/master/LabelofTumor.jpeg)
 
 
 ## Literature Review 
