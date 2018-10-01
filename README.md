@@ -23,6 +23,10 @@
     -	Set Animation mode: sequence 
     -	Set Number of Images
     - Set Master View: red
+- Use matlab functions to crop, resize and label data
+### Example Data
+**Ultrasound Image with Tumor contour:* 
+
 
 ## Literature Review 
 ### 1. A Deep Learning Approach for Real Time Prostate Segmentation in Freehand Ultrasound Guided Biopsy
